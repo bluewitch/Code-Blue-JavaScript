@@ -3,7 +3,11 @@
 
 // Demonstration of data.JSON pulling from a seperate data 
 // file called data.json located in the same directory
+// will not run locally, requires a http:// since it
+
+// calls the XMLHttpRequest Object
 // requires: data.json, demo_json_links.html
+
 var request;
 
 if (window.XMLHttpRequest) {
