@@ -1,4 +1,6 @@
 // template.js
+// ~dwulf
+
 // Anonymous Function
 $(document).ready(function() {
 
