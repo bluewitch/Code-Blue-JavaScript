@@ -1,6 +1,6 @@
 Code-Blue-JavaScript
 ====================
-Requires ( mydemoscript.js, demo_json_links.html, data.json )
+Requires ( <b>mydemoscript.js</b>, demo_json_links.html, data.json )
 
 Core JavaScript code demonstrations
 Invoking the XMLHttpRequest() Object
