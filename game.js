@@ -4,7 +4,6 @@
 
 // Gloabal Variables
 var Player0;
-var Player1;
 
 var STR = 0; // Strength
 var AGL = 0; // Agility
