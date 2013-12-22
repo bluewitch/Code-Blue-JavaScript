@@ -4,7 +4,8 @@ Requires ( <b>mydemoscript.js</b>, <b>demo_json_links.html</b>, <b>data.json</b>
 
 Core JavaScript code demonstrations
 Invoking the <b>XMLHttpRequest()</b> Object
-to read the data.json file on my server.
+to read the data within the <b>data.json</b> 
+file on my server.
 
 
 
