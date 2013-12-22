@@ -1,8 +1,12 @@
 Code-Blue-JavaScript
 ====================
+Requires ( mydemoscript.js, demo_json_links.html, data.json )
 
 Core JavaScript code demonstrations
-Invoking 
+Invoking the XMLHttpRequest() Object
+to read the data.json file on my server.
+
+
 
 
 
@@ -13,5 +17,5 @@ URLs for Professional JavaScript
   
   
 
-JSON Demonstration: Requires ( mydemoscript.js, demo_json_links.html, data.json )
+JSON Demonstration: 
 
