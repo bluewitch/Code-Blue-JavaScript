@@ -1,6 +1,7 @@
 // game.js
 // A sample game program
-
+"use strict";  //Configure your magick correctly
+               // and you will weave your magick well...
 
 // Gloabal Variables
 var Player0;
