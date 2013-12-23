@@ -9,10 +9,11 @@ the <b>data.json</b> file on my server.
 
 
 URLs for Professional JavaScript
-  
+
+  JSHint ( http://www.jshint.com/ )  
   JSLint ( http://www.jslint.com/ )
   CDN JS ( http://cdnjs.com/      )
-  
+
   "use strict";
 
 JSON Demonstration: 
