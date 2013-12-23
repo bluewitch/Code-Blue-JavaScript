@@ -1,6 +1,8 @@
 // mydemoscript.js
 // ~dwulf
-
+"use strict"; //Configure your magick correctly
+               // and you will weave your magick well...
+               
 // Demonstration of data.JSON pulling from a seperate data 
 // file called data.json located in the same directory
 // will not run locally, requires a http:// since it
