@@ -1,7 +1,7 @@
 // fizzbuzz.js
 // ~dwulf
 
-
+"use strict";
 
 var i = 1,
 
