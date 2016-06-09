@@ -1,4 +1,5 @@
 // clockAngle.js
+// Original code
 // (for the last f*cking time already)
 // h = 1..12, m = 0..59
 function angle(h,m) {
