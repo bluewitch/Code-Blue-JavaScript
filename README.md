@@ -1,5 +1,9 @@
 Code-Blue-JavaScript
 ====================
+This is demonstration JavaScript code, to illustrate the components used to fetch JSON
+Data.
+
+
 Requires ( <b>mydemoscript.js</b>, <b>demo_json_links.html</b>, <b>data.json</b> )
 
 Core JavaScript code demonstrations
