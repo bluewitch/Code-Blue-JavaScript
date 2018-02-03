@@ -25,3 +25,21 @@ URLs for Professional JavaScript
 
 JSON Demonstration: 
 
+**clockAngle.js**
+**data.json**
+**demo_json_links.html**
+
+
+**fizzbuzz.js**
+
+**game.js**
+
+**mydemoscript.js**
+**randomsample.js**
+
+**recursive.js**
+**stringCheck.js**
+
+**sumAdd.js**
+**template.js**
+**validateemail.js**
