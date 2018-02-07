@@ -1,5 +1,6 @@
 // mydemoscript.js
 // ~dwulf
+// -------------------------------------------------------------
 "use strict"; //Configure your magick correctly
                // and you will weave your magick well...
                
