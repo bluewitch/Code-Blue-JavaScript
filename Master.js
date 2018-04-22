@@ -1,6 +1,7 @@
 // Master.js
 // ~dwulf
 // ~ In honour of dlab, the hacker god who played chess with code...
+// ~ You Can't Bullshit a BOOLEAN
 //--------------------------------------------------------------------------------
 //    Holds all my personal "first principle" notes and scripts from Douglas Crockford's 
 //     JavaScript lectures.
