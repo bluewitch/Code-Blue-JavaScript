@@ -8,6 +8,7 @@
 //    July 10th 2015
 //    ECMA5 (2009)
 //    ECMA6 (2016)
+//           (2018)
 //--------------------------------------------------------------------------------
 // JavaScript is Protypal inheritance not Classed based 
 // like C++, but shares simular syntax.   This is about first principles
